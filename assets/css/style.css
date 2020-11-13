@@ -142,6 +142,9 @@ h3 {
     font-weight: 300;
     margin: 0;
 }
+h3{
+	color: #f56363;
+}
 h4,
 h5 {
     /*font-family: 'roboto', sans-serif;*/
